@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroMvvmSample", "MicroMVVMSample\MicroMvvmSample.csproj", "{330F526E-FD25-4728-9615-12A56F398277}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroMvvmToolkit", "MicroMvvmToolkit\MicroMvvmToolkit.csproj", "{06A34DB9-B7C5-4F2A-B456-3835BF60B02E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "References", "References", "{1B4AF6B3-9017-4EC7-9563-DF01B13321D6}"
+	ProjectSection(SolutionItems) = preProject
+		References\Microsoft.Expression.Interactions.dll = References\Microsoft.Expression.Interactions.dll
+		References\Moq.dll = References\Moq.dll
+		References\System.Windows.Interactivity.dll = References\System.Windows.Interactivity.dll
+		References\WPFToolkit.Design.dll = References\WPFToolkit.Design.dll
+		References\WPFToolkit.dll = References\WPFToolkit.dll
+		References\WPFToolkit.VisualStudio.Design.dll = References\WPFToolkit.VisualStudio.Design.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroMvvmToolkit.Tests", "MicroMvvmToolkit.Tests\MicroMvvmToolkit.Tests.csproj", "{DE871081-8424-474F-AC8C-4E0FF54316D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2867C41E-D29C-402B-9BCC-4CC3B47B776C}"
+	ProjectSection(SolutionItems) = preProject
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+		MicroMvvmToolkit.vsmdi = MicroMvvmToolkit.vsmdi
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = MicroMvvmToolkit.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{330F526E-FD25-4728-9615-12A56F398277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{330F526E-FD25-4728-9615-12A56F398277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{330F526E-FD25-4728-9615-12A56F398277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{330F526E-FD25-4728-9615-12A56F398277}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06A34DB9-B7C5-4F2A-B456-3835BF60B02E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06A34DB9-B7C5-4F2A-B456-3835BF60B02E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06A34DB9-B7C5-4F2A-B456-3835BF60B02E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06A34DB9-B7C5-4F2A-B456-3835BF60B02E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE871081-8424-474F-AC8C-4E0FF54316D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE871081-8424-474F-AC8C-4E0FF54316D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE871081-8424-474F-AC8C-4E0FF54316D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE871081-8424-474F-AC8C-4E0FF54316D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
