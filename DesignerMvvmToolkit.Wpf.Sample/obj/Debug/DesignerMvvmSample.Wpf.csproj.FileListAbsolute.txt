@@ -1,0 +1,2 @@
+C:\Users\Charlie\Self\GitHub\designer-mvvm-toolkit\DesignerMvvmSample.Wpf\obj\Debug\MicroMvvmSample.exe
+C:\Users\Charlie\Self\GitHub\designer-mvvm-toolkit\DesignerMvvmSample.Wpf\obj\Debug\MicroMvvmSample.pdb

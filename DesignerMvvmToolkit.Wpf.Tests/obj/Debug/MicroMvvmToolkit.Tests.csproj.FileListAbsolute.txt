@@ -1,0 +1,16 @@
+C:\Users\Charlie\Desktop\MicroMvvmToolkit\MicroMvvmToolkit.Tests\bin\Debug\MicroMvvmToolkit.Tests.dll
+C:\Users\Charlie\Desktop\MicroMvvmToolkit\MicroMvvmToolkit.Tests\bin\Debug\MicroMvvmToolkit.Tests.pdb
+C:\Users\Charlie\Desktop\MicroMvvmToolkit\MicroMvvmToolkit.Tests\bin\Debug\MicroMvvmToolkit.dll
+C:\Users\Charlie\Desktop\MicroMvvmToolkit\MicroMvvmToolkit.Tests\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Charlie\Desktop\MicroMvvmToolkit\MicroMvvmToolkit.Tests\bin\Debug\Moq.dll
+C:\Users\Charlie\Desktop\MicroMvvmToolkit\MicroMvvmToolkit.Tests\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Charlie\Desktop\MicroMvvmToolkit\MicroMvvmToolkit.Tests\bin\Debug\WPFToolkit.dll
+C:\Users\Charlie\Desktop\MicroMvvmToolkit\MicroMvvmToolkit.Tests\bin\Debug\Moq.pdb
+C:\Users\Charlie\Desktop\MicroMvvmToolkit\MicroMvvmToolkit.Tests\bin\Debug\Moq.xml
+C:\Users\Charlie\Desktop\MicroMvvmToolkit\MicroMvvmToolkit.Tests\bin\Debug\MicroMvvmToolkit.pdb
+C:\Users\Charlie\Desktop\MicroMvvmToolkit\MicroMvvmToolkit.Tests\bin\Debug\WPFToolkit.pdb
+C:\Users\Charlie\Desktop\MicroMvvmToolkit\MicroMvvmToolkit.Tests\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Charlie\Desktop\MicroMvvmToolkit\MicroMvvmToolkit.Tests\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Charlie\Desktop\MicroMvvmToolkit\MicroMvvmToolkit.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Charlie\Desktop\MicroMvvmToolkit\MicroMvvmToolkit.Tests\obj\Debug\MicroMvvmToolkit.Tests.dll
+C:\Users\Charlie\Desktop\MicroMvvmToolkit\MicroMvvmToolkit.Tests\obj\Debug\MicroMvvmToolkit.Tests.pdb

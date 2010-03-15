@@ -1,0 +1,16 @@
+C:\Users\Charlie\Self\GitHub\designer-mvvm-toolkit\DesignerMvvmToolkit.Wpf.Tests\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Charlie\Self\GitHub\designer-mvvm-toolkit\DesignerMvvmToolkit.Wpf.Tests\bin\Debug\Moq.dll
+C:\Users\Charlie\Self\GitHub\designer-mvvm-toolkit\DesignerMvvmToolkit.Wpf.Tests\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Charlie\Self\GitHub\designer-mvvm-toolkit\DesignerMvvmToolkit.Wpf.Tests\bin\Debug\WPFToolkit.dll
+C:\Users\Charlie\Self\GitHub\designer-mvvm-toolkit\DesignerMvvmToolkit.Wpf.Tests\bin\Debug\Moq.pdb
+C:\Users\Charlie\Self\GitHub\designer-mvvm-toolkit\DesignerMvvmToolkit.Wpf.Tests\bin\Debug\Moq.xml
+C:\Users\Charlie\Self\GitHub\designer-mvvm-toolkit\DesignerMvvmToolkit.Wpf.Tests\bin\Debug\WPFToolkit.pdb
+C:\Users\Charlie\Self\GitHub\designer-mvvm-toolkit\DesignerMvvmToolkit.Wpf.Tests\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Charlie\Self\GitHub\designer-mvvm-toolkit\DesignerMvvmToolkit.Wpf.Tests\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Charlie\Self\GitHub\designer-mvvm-toolkit\DesignerMvvmToolkit.Wpf.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Charlie\Self\GitHub\designer-mvvm-toolkit\DesignerMvvmToolkit.Wpf.Tests\bin\Debug\DesignerMvvmToolkit.Wpf.dll
+C:\Users\Charlie\Self\GitHub\designer-mvvm-toolkit\DesignerMvvmToolkit.Wpf.Tests\bin\Debug\DesignerMvvmToolkit.Wpf.pdb
+C:\Users\Charlie\Self\GitHub\designer-mvvm-toolkit\DesignerMvvmToolkit.Wpf.Tests\bin\Debug\DesignerMvvmToolkit.Wpf.Tests.dll
+C:\Users\Charlie\Self\GitHub\designer-mvvm-toolkit\DesignerMvvmToolkit.Wpf.Tests\bin\Debug\DesignerMvvmToolkit.Wpf.Tests.pdb
+C:\Users\Charlie\Self\GitHub\designer-mvvm-toolkit\DesignerMvvmToolkit.Wpf.Tests\obj\Debug\DesignerMvvmToolkit.Wpf.Tests.dll
+C:\Users\Charlie\Self\GitHub\designer-mvvm-toolkit\DesignerMvvmToolkit.Wpf.Tests\obj\Debug\DesignerMvvmToolkit.Wpf.Tests.pdb
